@@ -59,7 +59,7 @@ function PlanCard({ plan }: { plan: Plan }) {
           {plan.name}
         </h3>
         {plan.featured && (
-          <span className="eyebrow rounded-full bg-accent px-3 py-1.5 text-[11px] text-ink">Most popular</span>
+          <span className="eyebrow rounded-full bg-accent px-3 py-1.5 text-[11px] text-ink">Recommended</span>
         )}
       </div>
 

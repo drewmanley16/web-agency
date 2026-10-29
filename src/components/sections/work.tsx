@@ -19,7 +19,7 @@ export function Work() {
               Built for the way <span className="accent-serif">your</span> customers actually book.
             </>
           }
-          intro="A salon, a gym, and a restaurant need different things from a homepage. Each one is designed around the single action that makes the business money."
+          intro="A salon, a gym, and a restaurant need different things from a homepage. These sample projects show how we'd build each one around the single action that makes the business money."
         />
 
         <ul className="mt-16 grid grid-cols-1 gap-x-6 gap-y-14 md:mt-24 md:grid-cols-2 lg:grid-cols-3">
